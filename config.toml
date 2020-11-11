@@ -1,24 +1,27 @@
-baseurl                  = "https://example.com"           # Your domain name
-languageCode             = "en-us"
-defaultContentLanguage   = "en"
-isMultilingual           = false
-title                    = "Open Science Escape Room"
-theme                    = "sam"
-pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
-pygmentsCodefences       = true
+baseurl                 = "/"
+relativeURLs            = true
+languageCode            = "en-us"
+defaultContentLanguage  = "en"
+isMultilingual          = false
+title                   = "Open Science Escape Room"
+theme                   = "sam"
+pygmentsStyle           = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences      = true
+publishDir              = "docs"
+
 
 [params]
-    dateform             = "Mon Jan 02, 2006"
-    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    favicon              = "sam.ico"
-    homepage             = "home"                           # What to call the home page link
-    footerText           = "Open Science Escape Room"
+    dateform            = "Mon Jan 02, 2006"
+    dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
+    favicon             = "sam.ico"
+    homepage            = "home"                           # What to call the home page link
+    footerText          = "Open Science Escape Room"
 
 # Metadata for Open Graph and Twitter
-    description          = "A new Hugo site."               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Open Science Escape Room"
-    # rss                = ""
+    description         = "A new Hugo site."               # Max 160 characters show in search results
+    images              = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title               = "Open Science Escape Room"
+    # rss               = ""
 
 [[params.videoBackground.sources]]
     source  = "/sample_video.mp4"

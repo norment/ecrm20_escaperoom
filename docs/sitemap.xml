@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/introduction/</loc>
+    <lastmod>2018-02-13T13:42:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/instructions/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/gold/</loc>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/green/</loc>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/gold/what_is_gold/</loc>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/green/what_is_green/</loc>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/items/</loc>
+    <lastmod>1970-01-01T00:59:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/gold/look_around_the_room/</loc>
+    <lastmod>1970-01-01T00:59:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/green/look_around_the_room/</loc>
+    <lastmod>1970-01-01T00:59:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/items/try_again/</loc>
+    <lastmod>1970-01-01T00:59:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/common/</loc>
+  </url>
+  
+  <url>
+    <loc>/common/decipher/</loc>
+  </url>
+  
+  <url>
+    <loc>/common/enter_code/</loc>
+  </url>
+  
+  <url>
+    <loc>/items/money/</loc>
+  </url>
+  
+  <url>
+    <loc>/items/norway/</loc>
+  </url>
+  
+  <url>
+    <loc>/items/pocket/</loc>
+  </url>
+  
+  <url>
+    <loc>/items/predator/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/items/time/</loc>
+  </url>
+  
+  <url>
+    <loc>/items/5560/</loc>
+  </url>
+  
+</urlset>
