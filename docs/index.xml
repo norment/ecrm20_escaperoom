@@ -8,22 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 1970 01:00:00 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction</title>
-      <link>/introduction/</link>
-      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
-      
-      <guid>/introduction/</guid>
-      <description>Robin: Hi, I&amp;rsquo;m Robin!
-I&amp;rsquo;ll be your host in this game. We are currently in the year 2118 and all research is published with no costs for readers or authors. This is called Diamond Open Access. Back in 2020 it was different, and making research available for free could be… well, expensive or time consuming. You’re probably wondering why I’ve invited you here. As supporters of Open Access, I need your help.</description>
-    </item>
-    
-    <item>
       <title>Instructions</title>
       <link>/instructions/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/instructions/</guid>
-      <description>Welcome to the Open Access Escape Room. An escape room is a physical adventure game where you will attempt to solve a series of puzzles and riddles using clues, hints and strategy to ‘escape’ the room.
+      <description>Welcome to the Open Access Escape Room. An escape room is a physical adventure game where you will attempt to solve a series of puzzles and riddles using clues, hints and strategy to &amp;ldquo;escape&amp;rdquo; the room.
 In our version we will not lock the room, but the game will finish when you complete the last task in the last item you unlock. The game will be linear, meaning once you’ve completed one puzzle and unlocked an item you will get a clue to the next puzzle.</description>
     </item>
     
@@ -47,6 +37,20 @@ In our version we will not lock the room, but the game will finish when you comp
     
     <item>
       <title>Look around the room for clues</title>
+      <link>/common/look_around_the_room/</link>
+      <pubDate>Thu, 01 Jan 1970 00:59:59 +0100</pubDate>
+      
+      <guid>/common/look_around_the_room/</guid>
+      <description>Robin Well, here we are again!
+Click on the emojis to go to the clue. You may need to zoom in to let the other participants in the Zoom meeting see the items as well.
+👞 💻 🧷 🎖 👖
+⛑ 💰 🐭 🇳🇴 ⏰
+🧊 ✏️ 🍎 🦁 🎩
+🍳 🔎 🍫 🧶 ☕️</description>
+    </item>
+    
+    <item>
+      <title>Look around the room for clues</title>
       <link>/gold/look_around_the_room/</link>
       <pubDate>Thu, 01 Jan 1970 00:59:59 +0100</pubDate>
       
@@ -54,7 +58,7 @@ In our version we will not lock the room, but the game will finish when you comp
       <description>Click on the emojis to go to the clue. You may need to zoom in to let the other participants in the Zoom meeting see the items as well.
 👞 💻 🧷 🎖 👖
 ⛑ 💰 🐭 🇳🇴 ⏰
-👑 ✏️ 🍎 🦁 🎩
+🧊 ✏️ 🍎 🦁 🎩
 🍳 🔎 🍫 🧶 ☕️
  When you think you&amp;rsquo;ve found all the clues, you may continue here:</description>
     </item>
@@ -68,7 +72,7 @@ In our version we will not lock the room, but the game will finish when you comp
       <description>Click on the emojis to go to the clue. You may need to zoom in to let the other participants in the Zoom meeting see the items as well.
 👞 💻 🧷 🎖 👖
 ⛑ 💰 🐭 🇳🇴 ⏰
-👑 ✏️ 🍎 🦁 🎩
+🧊 ✏️ 🍎 🦁 🎩
 🍳 🔎 🍫 🧶 ☕️</description>
     </item>
     
@@ -82,12 +86,12 @@ In our version we will not lock the room, but the game will finish when you comp
     </item>
     
     <item>
-      <title>Decipher</title>
+      <title>Decipher the code</title>
       <link>/common/decipher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/common/decipher/</guid>
-      <description>symbol letter     ✪ V   ❖ I   ◉ Y   ❥ O   ⑄ C   ␦ P   ⎖ E   ⏚ Z   ⍦ K   ▲ S   ↓ T   ☡ B   ◘ F   ⌄ A    When you&amp;rsquo;ve deciphered the code, it spells the name of a website facilitating researchers who wish to share their research.</description>
+      <description>SYMBOL LETTER     ✪ V   ❖ I   ◉ Y   ❥ O   ⑄ C   ␦ P   ⎖ E   ⏚ Z   ⍦ K   ▲ S   ↓ T   ☡ B   ◘ F   ⌄ A    Robin Good! You made it here.</description>
     </item>
     
     <item>
@@ -100,6 +104,16 @@ In our version we will not lock the room, but the game will finish when you comp
 The name refers to a well-known Nature journal that recently increased its APC. The next clue is the new APC in 2021 in US dollars of this journal. You may use Google to find the APCs
 Here&amp;rsquo;s how you unlock the key:
  Open a new tab in your browser Write this text on a piece of paper: norment.</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/introduction/</guid>
+      <description>Robin: Hi, I&amp;rsquo;m Robin!
+I&amp;rsquo;ll be your host in this game. We are currently in the year 2118 and all research is published with no costs for readers or authors. This is called Diamond Open Access. Back in 2020 it was different, and making research available for free could be… well, expensive or time consuming. You’re probably wondering why I’ve invited you here. As supporters of Open Access, I need your help.</description>
     </item>
     
     <item>
@@ -152,6 +166,37 @@ på ein våg me ikkje har visst um.
     </item>
     
     <item>
+      <title>Springer-Nature vs Elsevier</title>
+      <link>/common/elsevier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/common/elsevier/</guid>
+      <description>Dr. Springer: Ah, you found me again! What do you want?
+Okay, if you&amp;rsquo;re here for the next clue, I&amp;rsquo;m going to need you to get some sympathy for me. My great-granduncle, Julius Springer, founded a publishing company in 1842 in Germany. In 2015, it merged with Nature Publishing Group to form a successful company called &amp;ldquo;Springer-Nature&amp;rdquo; that publishes a large portion of the scientific literature you read. We facilitate the scientific process you rely on!</description>
+    </item>
+    
+    <item>
+      <title>The Impact of Preprints</title>
+      <link>/common/preprints_impact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/common/preprints_impact/</guid>
+      <description>Robin So I hope you&amp;rsquo;ve managed to calculate the median number of download for these journals and get the impact factor!
+If you visualized the data, you might have seen something like the plot below. There is a really strong relationship between number of downloads of a preprint and the impact factor of the journal. Now, this may be a bit of a chicken-and-egg story. I&amp;rsquo;m not sure whether articles eventually published in a high-impact journal will get more downloads on their preprint, or whether preprints who have been very popular before being published are more likely to be published in a high-impact journal?</description>
+    </item>
+    
+    <item>
+      <title>This is the final clue</title>
+      <link>/items/this_is_the_final_clue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/items/this_is_the_final_clue/</guid>
+      <description>Robin One of the superstars fighting against the monopoly of the large publishers, and literally breaking down pay-walls is the developed of the website SciHub.
+In order to unlock the door and &amp;ldquo;escape&amp;rdquo; the room, you need to collect three colors
+ What is the color of the key in the SciHub logo? The flag of the country where the founder of SciHub originated from has the colors blue and … What is the color of the well-known Open Access logo?</description>
+    </item>
+    
+    <item>
       <title>Time 🕑</title>
       <link>/items/time/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -173,7 +218,7 @@ Pick a number between 1 and 5&amp;hellip;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/items/5560/</guid>
-      <description>Teachers, practicioners and anyone else without access to research through an institution can access and use research to improve their work Academics in developing countries can access research and stay up to date in their fields Public Access: Taxpayers feel they get value for their money Increased visibility of research More citations (due to more visibility) Compliant with funders (and the Research Excellence Framework) More transparency so academics can replicate and validate previous research When data is shared openly it can be used in other studies; reducing time and effort More accurate reporting from journalists to the public Open Access publications can help inform policy  ▲ ◘ ❥</description>
+      <description>Teachers, practicioners and anyone else without access to research through an institution can access and use research to improve their work Academics in developing countries can access research and stay up to date in their fields Public Access: Taxpayers feel they get value for their money Increased visibility of research More citations (due to more visibility) Compliant with funders (and the Research Excellence Framework) More transparency so academics can replicate and validate previous research When data is shared openly it can be used in other studies; reducing time and effort More accurate reporting from journalists to the public Open Access publications can help inform policy  ❥ ▲ ◘</description>
     </item>
     
   </channel>

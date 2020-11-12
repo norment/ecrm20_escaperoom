@@ -1,8 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-showDate: true
-draft: true
+showDate: false
+draft: false
 tags: ["blog","story"]
 ---
 

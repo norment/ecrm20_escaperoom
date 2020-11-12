@@ -9,6 +9,6 @@ Click on the emojis to go to the clue. You may need to zoom in to let the other 
 
 [⛑](../../items/try_again)   [💰](../../items/try_again)   [🐭](../../items/try_again)   [🇳🇴](../../items/norway)   [⏰](../../items/time)
 
-[👑](../../items/try_again)   [✏️](../../items/try_again)   [🍎](../../items/try_again)   [🦁](../../items/try_again)   [🎩](../../items/try_again)
+[🧊](../../items/try_again)   [✏️](../../items/try_again)   [🍎](../../items/try_again)   [🦁](../../items/try_again)   [🎩](../../items/try_again)
 
 [🍳](../../items/try_again)   [🔎](../../items/try_again)   [🍫](../../items/try_again)   [🧶](../../items/try_again)   [☕️](../../items/try_again)

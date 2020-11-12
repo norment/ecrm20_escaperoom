@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/introduction/</loc>
-    <lastmod>2018-02-13T13:42:49-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/instructions/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url>
@@ -43,6 +38,11 @@
   </url>
   
   <url>
+    <loc>/common/look_around_the_room/</loc>
+    <lastmod>1970-01-01T00:59:59+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/gold/look_around_the_room/</loc>
     <lastmod>1970-01-01T00:59:59+01:00</lastmod>
   </url>
@@ -58,11 +58,12 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/common/</loc>
+    <lastmod>1970-01-01T00:59:59+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/common/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
@@ -71,6 +72,10 @@
   
   <url>
     <loc>/common/enter_code/</loc>
+  </url>
+  
+  <url>
+    <loc>/introduction/</loc>
   </url>
   
   <url>
@@ -90,7 +95,19 @@
   </url>
   
   <url>
+    <loc>/common/elsevier/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/common/preprints_impact/</loc>
+  </url>
+  
+  <url>
+    <loc>/items/this_is_the_final_clue/</loc>
   </url>
   
   <url>

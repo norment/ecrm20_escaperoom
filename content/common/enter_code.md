@@ -12,7 +12,7 @@ _The name refers to a well-known Nature journal that recently increased its APC.
 
 _Here's how you unlock the key:_
 -   _Open a new tab in your browser_
--   _Write this text on a piece of paper: `norment.github.io/ecrm20_escape_room/items/`_
--   _Append the four digits of the APC to this text (like `norment.github.io/ecrm20_escape_room/items/<####>`)_
+-   _Write this text on a piece of paper: `norment.github.io/ecrm20_escaperoom/items/`_
+-   _Append the four digits of the APC to this text (like `norment.github.io/ecrm20_escaperoom/items/####`)_
 -   _Type this url in an empty tab in your browser, and go have a look what you find there!_
 
