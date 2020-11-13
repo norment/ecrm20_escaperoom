@@ -2,7 +2,7 @@
 title: "The Exit"
 ---
 
-### Dr. Springer
+### Dr. Springer:
 
 _NOO! My money! … I mean; my research! Damn and blast. I HATE Open Access, but I see that if you all collaborate as a group, sooner or later you'll eventually beat me and the other large publishers. Perhaps it's time I find another way to earn my money. Sell pastries maybe… You can click the button below to continue_
 

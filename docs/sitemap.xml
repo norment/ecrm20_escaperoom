@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/instructions/</loc>
-    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+    <loc>/tasks/common/enter_code/</loc>
+    <lastmod>1970-01-01T01:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -13,23 +13,28 @@
   </url>
   
   <url>
-    <loc>/gold/</loc>
+    <loc>/tasks/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/green/</loc>
+    <loc>/tasks/green/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/gold/what_is_gold/</loc>
+    <loc>/tasks/gold/what_is_gold/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/green/what_is_green/</loc>
+    <loc>/tasks/green/what_is_green/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tasks/common/decipher/</loc>
+    <lastmod>1970-01-01T00:59:59+01:00</lastmod>
   </url>
   
   <url>
@@ -38,17 +43,12 @@
   </url>
   
   <url>
-    <loc>/common/look_around_the_room/</loc>
+    <loc>/tasks/gold/look_around_the_room/</loc>
     <lastmod>1970-01-01T00:59:59+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/gold/look_around_the_room/</loc>
-    <lastmod>1970-01-01T00:59:59+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/green/look_around_the_room/</loc>
+    <loc>/tasks/green/look_around_the_room/</loc>
     <lastmod>1970-01-01T00:59:59+01:00</lastmod>
   </url>
   
@@ -58,8 +58,32 @@
   </url>
   
   <url>
-    <loc>/common/</loc>
+    <loc>/tasks/gold/</loc>
     <lastmod>1970-01-01T00:59:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tasks/common/</loc>
+    <lastmod>1970-01-01T00:59:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tasks/common/preprints_impact/</loc>
+    <lastmod>1970-01-01T00:59:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tasks/common/elsevier/</loc>
+    <lastmod>1970-01-01T00:59:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tasks/common/look_around_the_room/</loc>
+    <lastmod>1970-01-01T00:59:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/items/murica/</loc>
   </url>
   
   <url>
@@ -67,11 +91,11 @@
   </url>
   
   <url>
-    <loc>/common/decipher/</loc>
+    <loc>/items/chocolate/</loc>
   </url>
   
   <url>
-    <loc>/common/enter_code/</loc>
+    <loc>/items/coffee/</loc>
   </url>
   
   <url>
@@ -79,7 +103,15 @@
   </url>
   
   <url>
+    <loc>/instructions/</loc>
+  </url>
+  
+  <url>
     <loc>/introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>/items/program/</loc>
   </url>
   
   <url>
@@ -87,7 +119,15 @@
   </url>
   
   <url>
+    <loc>/items/mouse/</loc>
+  </url>
+  
+  <url>
     <loc>/items/norway/</loc>
+  </url>
+  
+  <url>
+    <loc>/items/dutch/</loc>
   </url>
   
   <url>
@@ -99,15 +139,7 @@
   </url>
   
   <url>
-    <loc>/common/elsevier/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/common/preprints_impact/</loc>
   </url>
   
   <url>
@@ -120,6 +152,18 @@
   
   <url>
     <loc>/items/5560/</loc>
+  </url>
+  
+  <url>
+    <loc>/items/rick_astley/</loc>
+  </url>
+  
+  <url>
+    <loc>/items/sherlock/</loc>
+  </url>
+  
+  <url>
+    <loc>/items/thread/</loc>
   </url>
   
 </urlset>

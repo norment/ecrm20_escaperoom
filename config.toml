@@ -3,7 +3,7 @@ relativeURLs            = true
 languageCode            = "en-us"
 defaultContentLanguage  = "en"
 isMultilingual          = false
-title                   = "Open Science Escape Room"
+title                   = "NORMENT Early Career Researchers Meeting 2020"
 theme                   = "sam"
 pygmentsStyle           = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
@@ -14,37 +14,33 @@ publishDir              = "docs"
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
     favicon             = "sam.ico"
     homepage            = "home"                           # What to call the home page link
-    footerText          = "Open Science Escape Room"
+    footerText          = "NORMENT Early Career Researchers Meeting 2020"
 
 # Metadata for Open Graph and Twitter
-    description         = "A new Hugo site."               # Max 160 characters show in search results
+    description         = "Interactive site for the Escape Room at the NORMENT Early-Career Researcher Meeting 2020"
     images              = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title               = "Open Science Escape Room"
     # rss               = ""
 
 [[params.videoBackground.sources]]
-    source  = "/sample_video.mp4"
+    source  = "images/background_video.mp4"
     type    = "video/mp4"
-    poster  = "/background.png"
+    poster  = "images/background.jpg"
 [params.videoBackground]
-    overlay = "rgba(0, 0, 0, 0.4)" # optional
+    overlay = "rgba(0, 0, 0, 0.6)" # optional
 
-
+#[[params.mainMenu]]
+#    link = "items/program"
+#    text = "meeting program"
 [[params.mainMenu]]
     link = "introduction"
     text = "introduction"
 [[params.mainMenu]]
-    link = "green"
-    text = "the green route"
-[[params.mainMenu]]
-    link = "gold"
-    text = "the gold route"
-[[params.mainMenu]]
-    link = "common"
-    text = "common path"
+    link = "tasks"
+    text = "tasks"
 [[params.mainMenu]]
     link = "instructions"
     text = "instructions"
-    
+
 [imaging]
     quality = 75

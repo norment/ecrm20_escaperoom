@@ -4,13 +4,13 @@ title: "Time 🕑"
 
 _Lost time is never found again_
 
-### Robin
+### Robin:
 
 ![](/images/robin-sitting.png)
 
 _Maybe it's time you talk to the villain again..._
 
-### Dr. Springer
+### Dr. Springer:
 
 ![](/images/villain-standing.png)
 
@@ -45,7 +45,7 @@ If you need something to do while waiting for the embargo to be over, you may sk
 
 &nbsp;
 
-### Robin
+### Robin:
 
 ![](/images/robin-sitting.png)
 
@@ -55,7 +55,7 @@ _It seems like Dr. Springer dropped something when he ran away, it's a piece of 
 >
 > ***PREDATORY***
 >
-> ***POCKET***
+> ***PAPERS***
 
 _Maybe these are clues that you can use when you continue with your tasks after the embargo is over?_
 

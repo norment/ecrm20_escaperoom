@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Items on Open Science Escape Room</title>
+    <title>Items on NORMENT Early Career Researchers Meeting 2020</title>
     <link>/items/</link>
-    <description>Recent content in Items on Open Science Escape Room</description>
+    <description>Recent content in Items on NORMENT Early Career Researchers Meeting 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 1970 00:59:59 +0100</lastBuildDate><atom:link href="/items/index.xml" rel="self" type="application/rss+xml" />
@@ -17,12 +17,52 @@
     </item>
     
     <item>
+      <title>&#39;MURICA 🇺🇸</title>
+      <link>/items/murica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/items/murica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chocolate 🍫</title>
+      <link>/items/chocolate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/items/chocolate/</guid>
+      <description>DON&amp;rsquo;T PRESS THIS BUTTON!!!
+ </description>
+    </item>
+    
+    <item>
+      <title>Coffee ☕️</title>
+      <link>/items/coffee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/items/coffee/</guid>
+      <description>Robin: Want a cup of coffee already, huh?</description>
+    </item>
+    
+    <item>
       <title>Epilogue</title>
       <link>/items/epilogue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/items/epilogue/</guid>
-      <description>Robin We did it! You found the exit!</description>
+      <description>Robin We did it! You found the exit! Remember the following line, it&amp;rsquo;s proof that you actually found the key:
+ &amp;ldquo;A closed door is seldomly an invitation&amp;rdquo;
+ Now you can go and make yourself a cup of coffee until we move on with the rest of the program, or you can explore the escape room to see if you can find any of the easter eggs
+ </description>
+    </item>
+    
+    <item>
+      <title>Meeting Program</title>
+      <link>/items/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/items/program/</guid>
+      <description>Early Career Researchers Meeting 2020 Program    TIME TALK TITLE SPEAKER     11.00-11.15 Welcome  ECRM Committee   11.15-12.00 KEYNOTE TBD Athanasia Mowinckels   12.00-12.15 coffee break     12.15-12.35 Internal talk TBD TBD   12.35-12.55 Internal talk TBD TBD   12.55-13.50 lunch break     13.50-14.10 Internal talk TBD TBD   14.10-14.30 Internal talk TBD TBD   14.</description>
     </item>
     
     <item>
@@ -33,6 +73,15 @@
       <guid>/items/money/</guid>
       <description>You found money! 💰💵💸🤑
 💰💰💰💰💰💰</description>
+    </item>
+    
+    <item>
+      <title>Mouse 🐁</title>
+      <link>/items/mouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/items/mouse/</guid>
+      <description>Dr. Springer: You found my lab mice!</description>
     </item>
     
     <item>
@@ -53,7 +102,16 @@ at draumen skal opna seg,
 at me ei morgonstund skal glida inn
 på ein våg me ikkje har visst um.
 &amp;ndash; Olav H. Hauge (1966)
- It’s the dream we carry in secret</description>
+   It’s the dream we carry in secret</description>
+    </item>
+    
+    <item>
+      <title>ORANJE BOVEN 🇳🇱</title>
+      <link>/items/dutch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/items/dutch/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -80,7 +138,7 @@ på ein våg me ikkje har visst um.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/items/this_is_the_final_clue/</guid>
-      <description>Robin One of the superstars fighting against the monopoly of the large publishers, and literally breaking down pay-walls is the developed of the website SciHub.
+      <description>Robin: One of the superstars fighting against the monopoly of the large publishers, and literally breaking down pay-walls is the developed of the website SciHub.
 In order to unlock the door and &amp;ldquo;escape&amp;rdquo; the room, you need to collect three colors
  The flag of the country where the founder of SciHub originated from has the colors blue and … What is the color of the key in the SciHub logo?</description>
     </item>
@@ -92,8 +150,8 @@ In order to unlock the door and &amp;ldquo;escape&amp;rdquo; the room, you need 
       
       <guid>/items/time/</guid>
       <description>Lost time is never found again
-Robin Maybe it&amp;rsquo;s time you talk to the villain again&amp;hellip;
-Dr. Springer What is it? Can’t you see I am busy? Okay, let’s play a game.
+Robin: Maybe it&amp;rsquo;s time you talk to the villain again&amp;hellip;
+Dr. Springer: What is it? Can’t you see I am busy? Okay, let’s play a game.
 Pick a number between 1 and 5&amp;hellip;
  Do you have one?
  Pick another number between 20 and 60&amp;hellip;
@@ -108,6 +166,34 @@ Pick a number between 1 and 5&amp;hellip;
       
       <guid>/items/5560/</guid>
       <description>Teachers, practicioners and anyone else without access to research through an institution can access and use research to improve their work Academics in developing countries can access research and stay up to date in their fields Public Access: Taxpayers feel they get value for their money Increased visibility of research More citations (due to more visibility) Compliant with funders (and the Research Excellence Framework) More transparency so academics can replicate and validate previous research When data is shared openly it can be used in other studies; reducing time and effort More accurate reporting from journalists to the public Open Access publications can help inform policy  ❥ ▲ ◘</description>
+    </item>
+    
+    <item>
+      <title>You found the secretest clue! 🔎</title>
+      <link>/items/rick_astley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/items/rick_astley/</guid>
+      <description>Dr. Springer: Do you think you should click the image below to get the clue?
+ </description>
+    </item>
+    
+    <item>
+      <title>🔎</title>
+      <link>/items/sherlock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/items/sherlock/</guid>
+      <description>Need to take a closer look, do ya?</description>
+    </item>
+    
+    <item>
+      <title>🧶</title>
+      <link>/items/thread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/items/thread/</guid>
+      <description>Nothing to see here, move along…</description>
     </item>
     
   </channel>
