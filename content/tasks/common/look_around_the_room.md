@@ -5,13 +5,11 @@ date: -5
 
 ### Robin:
 
-_Well, here we are again!_
-
-Click on the emojis to go to the clue. You may need to zoom in to let the other participants in the Zoom meeting see the items as well.
+_Well, here we are again! Let's see what we can find here in the room!_
 
 <div style="font-size: 40px">
 
-[👞](/items/try_again)   [💻](/items/try_again)   [🧷](/items/try_again)   [👑](/items/king)   [📄](/items/pocket)
+[👞](/items/try_again)   [💻](/items/google)   [🧷](/items/try_again)   [👑](/items/king)   [📄](/items/papers)
 
 [⛑](/items/try_again)   [💰](/items/money)   [🐁](/items/mouse)   [🇳🇴](/items/norway)   [⏰](/items/try_again)
 

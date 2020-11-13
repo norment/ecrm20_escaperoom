@@ -7,6 +7,6 @@ Making something Open Access (freely available with no costs for the reader or t
 
 The catch with Green Open Access is that there may be a delay in making it freely available (often referred to as an “embargo”). The delay of access is decided by the journal, and can be 3, 6, 9, 12 or even 24 months. However, sometimes there may be no embargo at all!
 
-Do you have the ***TIME*** for Green Open Access?
+Do you have the <span style="color:#A0CCDA;">***TIME***</span> for Green Open Access?
 
-[![](https://img.shields.io/website?label=Look&nbsp;around&nbsp;the&nbsp;room&style=for-the-badge&up_message=Go%21&url=https%3A%2F%2Fdanielroelfs.com)](/tasks/green/look_around_the_room)
+[![](https://img.shields.io/website?label=Look%20around%20the%20room&style=for-the-badge&up_message=Go%21&url=https%3A%2F%2Fdanielroelfs.com)](/tasks/green/look_around_the_room)

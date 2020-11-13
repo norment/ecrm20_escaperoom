@@ -107,6 +107,10 @@
   </url>
   
   <url>
+    <loc>/items/google/</loc>
+  </url>
+  
+  <url>
     <loc>/instructions/</loc>
   </url>
   
@@ -139,7 +143,7 @@
   </url>
   
   <url>
-    <loc>/items/pocket/</loc>
+    <loc>/items/papers/</loc>
   </url>
   
   <url>

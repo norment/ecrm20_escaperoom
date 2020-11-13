@@ -57,6 +57,15 @@
     </item>
     
     <item>
+      <title>Google 💻</title>
+      <link>/items/google/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/items/google/</guid>
+      <description>Just a kindly reminder that the use of Google to find answers to the questions is allowed, but it&amp;rsquo;ll be more of an achievement if you do it without 💪</description>
+    </item>
+    
+    <item>
       <title>Kongen sier god helg 👑</title>
       <link>/items/king/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -80,8 +89,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/items/money/</guid>
-      <description>You found money! 💰💵💸🤑
-💰💰💰💰💰💰</description>
+      <description>You found money!
+💰💰💰💰💰💰
+ OSINC
+  </description>
     </item>
     
     <item>
@@ -124,12 +135,14 @@ på ein våg me ikkje har visst um.
     </item>
     
     <item>
-      <title>Pocket 👖</title>
-      <link>/items/pocket/</link>
+      <title>Paper 📑</title>
+      <link>/items/papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/items/pocket/</guid>
-      <description>You found a clue in the pants pocket!</description>
+      <guid>/items/papers/</guid>
+      <description>You found a clue!
+ MUIN
+  </description>
     </item>
     
     <item>
@@ -138,7 +151,9 @@ på ein våg me ikkje har visst um.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/items/predator/</guid>
-      <description>You found the predator!</description>
+      <description>You found the predator!
+ CAMOT
+  </description>
     </item>
     
     <item>

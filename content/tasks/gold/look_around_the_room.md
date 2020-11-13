@@ -7,7 +7,7 @@ Click on the emojis to go to the clue. You may need to zoom in to let the other 
 
 <div style="font-size: 40px">
 
-[👞](/items/try_again)   [💻](/items/try_again)   [🧷](/items/try_again)   [👑](/items/king)   [📄](/items/pocket)
+[👞](/items/try_again)   [💻](/items/google)   [🧷](/items/try_again)   [👑](/items/king)   [📄](/items/papers)
 
 [⛑](/items/try_again)   [💰](/items/money)   [🐁](/items/mouse)   [🇳🇴](/items/norway)   [⏰](/items/try_again)
 

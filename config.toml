@@ -8,6 +8,7 @@ theme                   = "sam"
 pygmentsStyle           = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
 publishDir              = "docs"
+googleAnalytics         = "G-0CS8JKDMHZ"
 
 [markup.goldmark.renderer]
       unsafe = true
@@ -15,9 +16,11 @@ publishDir              = "docs"
 [params]
     dateform            = "Mon Jan 02, 2006"
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
-    favicon             = "sam.ico"
+    favicon             = "norment.png"
     homepage            = "home"                           # What to call the home page link
     footerText          = "NORMENT Early Career Researchers Meeting 2020"
+    companylogo         = "images/norment.png"
+    logoheight          = "40px"
 
 # Metadata for Open Graph and Twitter
     description         = "Interactive site for the Escape Room at the NORMENT Early-Career Researcher Meeting 2020"
