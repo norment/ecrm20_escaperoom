@@ -21,7 +21,7 @@ _Okay, if you're here for the next clue, I'm going to need you to get some sympa
 [![](https://img.shields.io/website?label=Scientific&nbsp;Work&nbsp;Act&style=for-the-badge&up_message=Click&url=https%3A%2F%2Fdanielroelfs.com&color=blue)](/items/try_again)
 [![](https://img.shields.io/website?label=Order&nbsp;66&style=for-the-badge&up_message=Click&url=https%3A%2F%2Fdanielroelfs.com&color=blue)](/items/try_again)
 [![](https://img.shields.io/website?label=NIH&nbsp;Publishing&nbsp;Act&style=for-the-badge&up_message=Click&url=https%3A%2F%2Fdanielroelfs.com&color=blue)](/items/try_again)
-[![](https://img.shields.io/website?label=Research&nbsp;Work&nbsp;Act&style=for-the-badge&up_message=Click&url=https%3A%2F%2Fdanielroelfs.com&color=blue)](/common/look_around_the_room)
+[![](https://img.shields.io/website?label=Research&nbsp;Work&nbsp;Act&style=for-the-badge&up_message=Click&url=https%3A%2F%2Fdanielroelfs.com&color=blue)](/tasks/common/look_around_the_room)
 [![](https://img.shields.io/website?label=The&nbsp;American&nbsp;Scientific&nbsp;Freedom&nbsp;Act&style=for-the-badge&up_message=Click&url=https%3A%2F%2Fdanielroelfs.com&color=blue)](/items/murica)
 [![](https://img.shields.io/website?label=Issa&nbsp;Maloney&nbsp;Act&style=for-the-badge&up_message=Click&url=https%3A%2F%2Fdanielroelfs.com&color=blue)](/items/try_again)
 [![](https://img.shields.io/website?label=Gimme&nbsp;More&nbsp;Moneyz&nbsp;Act&style=for-the-badge&up_message=Click&url=https%3A%2F%2Fdanielroelfs.com&color=blue)](/items/murica)

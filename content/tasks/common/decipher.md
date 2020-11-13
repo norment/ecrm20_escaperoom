@@ -30,4 +30,4 @@ _Take the letters of the clue, append `.io` and it becomes the link to a website
 
 Once you've found the clue, click here to continue:
 
-[![](https://img.shields.io/website?label=Continue&style=for-the-badge&up_message=Go%21&url=https%3A%2F%2Fdanielroelfs.com)](/common/preprints_impact)
+[![](https://img.shields.io/website?label=Continue&style=for-the-badge&up_message=Go%21&url=https%3A%2F%2Fdanielroelfs.com)](/tasks/common/preprints_impact)

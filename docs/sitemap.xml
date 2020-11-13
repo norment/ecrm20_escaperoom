@@ -87,6 +87,10 @@
   </url>
   
   <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
   </url>
   
@@ -108,6 +112,10 @@
   
   <url>
     <loc>/introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>/items/king/</loc>
   </url>
   
   <url>

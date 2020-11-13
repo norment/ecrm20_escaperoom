@@ -9,4 +9,4 @@ The catch with Green Open Access is that there may be a delay in making it freel
 
 Do you have the ***TIME*** for Green Open Access?
 
-[![Website](https://img.shields.io/website?label=Look&nbsp;around&nbsp;the&nbsp;room&style=for-the-badge&up_message=Go%21&url=https%3A%2F%2Fdanielroelfs.com)](/green/look_around_the_room)
+[![](https://img.shields.io/website?label=Look&nbsp;around&nbsp;the&nbsp;room&style=for-the-badge&up_message=Go%21&url=https%3A%2F%2Fdanielroelfs.com)](/tasks/green/look_around_the_room)
