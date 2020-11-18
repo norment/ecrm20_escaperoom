@@ -77,6 +77,12 @@ icon {
 
 /* Other */
 
+.name {
+    margin-top: 5%;
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
 .bg {
     background-color: rgba(255, 255, 255, 0.95);
     margin-top: 5%;
