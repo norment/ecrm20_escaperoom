@@ -3,7 +3,7 @@ relativeURLs            = true
 languageCode            = "en-us"
 defaultContentLanguage  = "en"
 isMultilingual          = false
-title                   = "NORMENT Early Career Researchers Meeting 2020"
+title                   = "Early Career Researchers Meeting 2020 - Open Science Escape Room"
 theme                   = "sam"
 pygmentsStyle           = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
@@ -16,11 +16,12 @@ googleAnalytics         = "G-0CS8JKDMHZ"
 [params]
     dateform            = "Mon Jan 02, 2006"
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
-    favicon             = "norment.png"
+    favicon             = "images/norment.png"
     homepage            = "home"                           # What to call the home page link
-    footerText          = "NORMENT Early Career Researchers Meeting 2020"
+    footerText          = ""
     companylogo         = "images/norment.png"
     logoheight          = "40px"
+    companysite         = "https://www.med.uio.no/norment/english/"
 
 # Metadata for Open Graph and Twitter
     description         = "Interactive site for the Escape Room at the NORMENT Early-Career Researcher Meeting 2020"

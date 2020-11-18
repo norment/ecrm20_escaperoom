@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&display=swap');
+
+body {
+    background-image: url('https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80');     
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #75ABDC;
+    font-size: 16pt;
+    font-weight: 600;
+    margin-left: 10%;
+}
+
+a {
+    color: #75ABDC;
+}
+a:hover {
+    -webkit-filter: brightness(70%);
+    filter: brightness(70%);
+    transition: all 1s ease;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    -webkit-transform-origin-x: 0;
+    font-family: 'Playfair Display', serif;
+    color: #E896C1;
+    margin: 10%;
+    margin-top: 0%;
+    padding-top: 5%;
+    line-height: 100%;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 40pt;
+    transform: scaleX(1.2);
+    letter-spacing: 2px;
+    margin-bottom: 1em;
+}
+
+speaker {
+    display: table;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 28pt;
+    background: #E896C1;
+    color: #fff;
+    padding: 5pt;
+    padding-bottom: 0;
+    margin-left: 10%;
+    margin-top: 1em;
+}
+.internal {
+    display: table;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20pt;
+    margin-left: 10%;
+}
+
+creds {
+    display: block;
+    line-height: 120%;
+    margin-left: 10%;
+    font-size: 16pt;
+    font-style: italic;
+}
+
+icon {
+    display: inline-block;
+    margin-left: 10%;
+    padding-top: 0.25rem;
+}
+
+.last {
+    margin-bottom: 2em;
+}
+
+/* Other */
+
+.bg {
+    background-color: rgba(255, 255, 255, 0.95);
+    margin-top: 5%;
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+img {
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.txtwrap {
+    float: right;
+    margin: 10px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Table style */
+.tb {
+	border-collapse: collapse;
+    margin: 10%;
+    margin-top: 5%;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.tb td {
+	overflow: hidden;
+	padding: 25px 5px;
+	word-break: normal;
+}
+
+.tb .keynote {
+    color: #E896C1;
+    font-weight: 700;
+}
+
+.tb .break {
+    font-style: italic;
+}

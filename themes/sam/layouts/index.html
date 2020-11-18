@@ -40,7 +40,9 @@
 
     </nav>
 
-    <img src="{{ .Site.Params.companylogo }}" style="height:{{ .Site.Params.logoheight | default "50px" }};"> <!-- DR: added logo -->
+    <a href="{{ .Site.Params.companysite }}" target="_blank" style="border-bottom: 0px;">
+        <img src="{{ .Site.Params.companylogo }}" height={{ .Site.Params.logoheight | default "50px" }}>
+    </a> <!-- DR: added logo -->
 </body>
 
 </html>

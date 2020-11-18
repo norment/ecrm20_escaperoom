@@ -11,7 +11,25 @@ _So I hope you've managed to calculate the median number of download for these j
 
 _If you visualized the data, you might have seen something like the plot below. There is a really strong relationship between number of downloads of a preprint and the impact factor of the journal. Now, this may be a bit of a chicken-and-egg story. I'm not sure whether articles eventually published in a high-impact journal will get more downloads on their preprint, or whether preprints who have been very popular before being published are more likely to be published in a high-impact journal? Now, you may have a think about this with your group for a few minutes before you move on._
 
+<br><br><br>
+
+_Are you stuck? Need a hint? Maybe skim through this article to get a hint. It is the source of the dataset_
+<details>
+    <summary><em>Click here to get a hint</em></summary>
+
+[![](https://img.shields.io/website?label=Click%20here%20for%20a%20hint&style=for-the-badge&up_message=Go!&url=https%3A%2F%2Fdanielroelfs.com&color=bright%20green)](https://doi.org/10.7554/eLife.45133)
+</details>
+
+<br><br><br>
+
+_Still stuck? Need an even bigger hint?_
+<details>
+    <summary><em>Click here to get a bigger hint</em></summary>
+
 ![](/images/median_downloads_vs_impact.png)
+</details>
+
+<br><br>
 
 _Anyway, below are a few answers you could have gotten, click the right one to continue to the next step!_
 
