@@ -38,7 +38,7 @@ body {
     background-repeat: no-repeat;
     font-family: 'Josefin Sans', sans-serif;
     color: #75ABDC;
-    font-size: 16pt;
+    font-size: 18pt;
     font-weight: 600;
 }
 @media (max-width: 750px) {
@@ -93,7 +93,7 @@ a {
 a:hover {
     -webkit-filter: brightness(70%);
     filter: brightness(70%);
-    transition: all 1s ease;
+    transition: all .5s ease;
 }
 
 speaker {
@@ -130,7 +130,10 @@ speaker {
 
 talk {
     display: block;
-    font-style: italic;
+}
+
+talker {
+    font-size: 12pt;
 }
 
 creds {
@@ -175,6 +178,12 @@ img {
 .txtwrap {
     float: right;
     margin: 10px;
+    width: 20%;
+}
+@media (max-width: 750px) {
+    .txtwrap {
+        width: 40%;
+    }
 }
 
 .center {
@@ -194,13 +203,12 @@ img {
     margin-top: 5%;
     text-align: left;
     vertical-align: middle;
-    width: 80%;
+    width: 100%;
 }
 @media (max-width: 750px) {
     .tb {
         table-layout: auto;
         display: block;
-        width: 95%;
         font-size: 12pt;
     }
 }
