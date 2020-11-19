@@ -36,9 +36,12 @@ googleAnalytics         = "G-0CS8JKDMHZ"
 [params.videoBackground]
     overlay = "rgba(0, 0, 0, 0.6)" # optional
 
+[[params.mainMenu]]
+    link = "pages/program"
+    text = "program"
 #[[params.mainMenu]]
-#    link = "items/program"
-#    text = "meeting program"
+#    link = "/items/closed"
+#    text = "THE ESCAPE ROOM IS CLOSED"
 [[params.mainMenu]]
     link = "introduction"
     text = "start"

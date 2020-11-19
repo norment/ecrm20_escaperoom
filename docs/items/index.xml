@@ -157,6 +157,15 @@ på ein våg me ikkje har visst um.
     </item>
     
     <item>
+      <title>THE ESCAPE ROOM IS CLOSED UNTIL 14.30 🔒</title>
+      <link>/items/closed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/items/closed/</guid>
+      <description>The escape room will open on Friday the 27th of November at 14.30 to avoid people peeking around and finding some of the clues before the interactive session starts!</description>
+    </item>
+    
+    <item>
       <title>This is the final clue</title>
       <link>/items/this_is_the_final_clue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

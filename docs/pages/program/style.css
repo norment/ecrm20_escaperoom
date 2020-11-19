@@ -1,31 +1,56 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&display=swap');
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+/* Define backgrounds */
+.bg {
+    background-color: rgba(255, 255, 255, 0.95);
+    margin: auto;
+    margin-bottom: 5%;
+    width: 80%;
+}
+@media (max-width: 750px) {
+    .bg {
+        margin-left: 2%;
+        margin-right: 2%;
+        width: 95%;
+    }
+}
+
+.container {
+    padding-bottom: 2.5%;
+    margin: 10%;
+}
+@media (max-width: 750px) {
+    .container {
+        margin-left: 5%;
+    }
+}
+
+/* Define text */
 body {
-    background-image: url('https://images.unsplash.com/photo-1557672172-298e090bd0f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80');     
+    background-image: url('../../images/program_background.jpg');     
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Josefin Sans', sans-serif;
     color: #75ABDC;
     font-size: 16pt;
     font-weight: 600;
-    margin-left: 10%;
+}
+@media (max-width: 750px) {
+    body {
+        font-size: 14pt;
+    }
 }
 
-a {
-    color: #75ABDC;
-}
-a:hover {
-    -webkit-filter: brightness(70%);
-    filter: brightness(70%);
-    transition: all 1s ease;
-}
-
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3 {
     -webkit-transform-origin-x: 0;
     font-family: 'Playfair Display', serif;
     color: #E896C1;
-    margin: 10%;
     margin-top: 0%;
     padding-top: 5%;
     line-height: 100%;
@@ -38,6 +63,38 @@ h1 {
     letter-spacing: 2px;
     margin-bottom: 1em;
 }
+@media (max-width: 750px) {
+    h1 {
+        font-size: 34pt;
+        transform: scaleX(1);
+        letter-spacing: 0px;
+    }
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 26pt;
+        transform: scaleX(1);
+        letter-spacing: 0px;
+    }
+}
+
+h3 {
+    font-size: 29pt;
+}
+@media (max-width: 750px) {
+    h3 {
+        font-size: 17pt;
+    }
+}
+
+a {
+    color: #75ABDC;
+}
+a:hover {
+    -webkit-filter: brightness(70%);
+    filter: brightness(70%);
+    transition: all 1s ease;
+}
 
 speaker {
     display: table;
@@ -47,54 +104,72 @@ speaker {
     color: #fff;
     padding: 5pt;
     padding-bottom: 0;
-    margin-left: 10%;
     margin-top: 1em;
 }
+@media (max-width: 750px) {
+    speaker {
+        font-size: 24pt;
+    }
+}
+@media (max-width: 600px) {
+    speaker {
+        font-size: 18pt;
+    }
+}
+
 .internal {
     display: table;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 20pt;
-    margin-left: 10%;
+}
+@media (max-width: 750px) {
+    .internal {
+        font-size: 18pt;
+    }
+}
+
+talk {
+    display: block;
+    font-style: italic;
 }
 
 creds {
     display: block;
     line-height: 120%;
-    margin-left: 10%;
     font-size: 16pt;
     font-style: italic;
+}
+@media (max-width: 750px) {
+    creds {
+        font-size: 14pt;
+    }
 }
 
 icon {
     display: inline-block;
-    margin-left: 10%;
     padding-top: 0.25rem;
 }
 
 .last {
-    margin-bottom: 2em;
+    margin-bottom: 2.5em;
 }
 
 /* Other */
 
-.name {
-    margin-top: 5%;
-    margin-left: 12%;
-    margin-right: 12%;
+.bio {
+    margin-top: 1rem; 
+    margin-right: 10%;
 }
-
-.bg {
-    background-color: rgba(255, 255, 255, 0.95);
-    margin-top: 5%;
-    margin-left: 12%;
-    margin-right: 12%;
+@media (max-width: 750px) {
+    .bio {
+        margin-right: 5%;
+    }
 }
 
 img {
     border-radius: 50%;
     vertical-align: middle;
     margin-top: 5%;
-    margin-left: 10%;
 }
 
 .txtwrap {
@@ -104,17 +179,30 @@ img {
 
 .center {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    position:relative;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
 }
 
 /* Table style */
 .tb {
+    table-layout: fixed;
 	border-collapse: collapse;
-    margin: 10%;
     margin-top: 5%;
     text-align: left;
     vertical-align: middle;
+    width: 80%;
+}
+@media (max-width: 750px) {
+    .tb {
+        table-layout: auto;
+        display: block;
+        width: 95%;
+        font-size: 12pt;
+    }
 }
 
 .tb td {
