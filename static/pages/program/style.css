@@ -227,3 +227,9 @@ img {
 .tb .break {
     font-style: italic;
 }
+
+#clock {
+    display: inline-flex;
+    color: #E896C1;
+    float: right;
+}
