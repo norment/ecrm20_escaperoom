@@ -11,7 +11,7 @@ Click on the emojis to go to the clue. You may need to zoom in to let the other 
 
 [⛑](/items/try_again)   [💰](/items/try_again)   [🐁](/items/mouse)   [🇳🇴](/items/norway)   [⏰](/items/time)
 
-[🧊](/items/try_again)   [✏️](/items/try_again)   [🍎](/items/try_again)   [🦁](/items/try_again)   [🎩](/items/try_again)
+[🧊](/items/try_again)   [✏️](/items/try_again)   [🍎](/items/try_again)   [🐈](/items/try_again)   [🎩](/items/try_again)
 
 [🧩](/items/rick_astley)   [🔎](/items/sherlock)   [🍫](/items/chocolate)   [🧶](/items/thread)   [☕️](/items/coffee)
 

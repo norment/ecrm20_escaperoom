@@ -1,5 +1,5 @@
 ---
-title: "Predator 🦁"
+title: "Predator 🐈"
 ---
 
 You found the predator! 
