@@ -39,21 +39,21 @@ googleAnalytics         = "G-0CS8JKDMHZ"
 [[params.mainMenu]]
     link = "pages/program"
     text = "program"
+#[[params.mainMenu]]
+#    link = "/items/closed"
+#    text = "THE ESCAPE ROOM IS CLOSED"
 [[params.mainMenu]]
-    link = "/items/closed"
-    text = "THE ESCAPE ROOM IS CLOSED"
-#[[params.mainMenu]]
-#    link = "introduction"
-#    text = "start"
-#[[params.mainMenu]]
-#    link = "tasks"
-#    text = "tasks"
-#[[params.mainMenu]]
-#    link = "instructions"
-#    text = "instructions"
-#[[params.mainMenu]]
-#    link = "about"
-#    text = "about"
+    link = "introduction"
+    text = "start"
+[[params.mainMenu]]
+    link = "tasks"
+    text = "tasks"
+[[params.mainMenu]]
+    link = "instructions"
+    text = "instructions"
+[[params.mainMenu]]
+    link = "about"
+    text = "about"
 
 [imaging]
     quality = 75

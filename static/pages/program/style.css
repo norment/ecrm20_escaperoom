@@ -162,6 +162,7 @@ icon {
 /* Other */
 
 .bio {
+    display: block;
     margin-top: 1rem; 
     margin-right: 10%;
 }
