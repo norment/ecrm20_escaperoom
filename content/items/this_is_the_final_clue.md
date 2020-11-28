@@ -6,7 +6,7 @@ title: "This is the final clue"
 
 ![](/images/robin-sitting.png)
 
-_One of the superstars fighting against the monopoly of the large publishers, and literally breaking down pay-walls is the developed of the website ***SciHub***._
+_One of the superstars fighting against the monopoly of the large publishers, and literally breaking down pay-walls is the developer of the website ***SciHub***._
 
 _In order to unlock the door and "escape" the room, you need to collect three colors_
 

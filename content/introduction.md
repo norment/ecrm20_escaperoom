@@ -20,5 +20,5 @@ _FREE!? What about me? What am I supposed to live off? I am the expert on how kn
 
 _Oh dear… You must stop Dr. Springer before he locks down everything! There is a rumour that there are two ways to making everything open again; the Green and the Gold Route. You must choose one!_
 
-[![](https://img.shields.io/website?color=bright%20green&label=Green%20envelope&style=for-the-badge&up_message=Go&url=https://danielroelfs.com)](/tasks/green)
-[![](https://img.shields.io/website?color=yellow&label=Gold%20envelope&style=for-the-badge&up_message=Go&url=https://danielroelfs.com)](/tasks/gold)
+[![](https://img.shields.io/website?color=bright%20green&label=Green%20envelope&style=for-the-badge&up_message=Go&url=https://danielroelfs.com)](/tasks/green/what_is_green)
+[![](https://img.shields.io/website?color=yellow&label=Gold%20envelope&style=for-the-badge&up_message=Go&url=https://danielroelfs.com)](/tasks/gold/what_is_gold)
