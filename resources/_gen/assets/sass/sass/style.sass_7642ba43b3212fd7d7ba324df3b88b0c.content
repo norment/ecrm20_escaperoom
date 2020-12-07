@@ -288,4 +288,9 @@ article {
   justify-content: center;
   align-items: center; }
 
+img {
+  transition: 0.5s ease; }
+  img:hover {
+    filter: brightness(120%); }
+
 /*# sourceMappingURL=main.css.map */
