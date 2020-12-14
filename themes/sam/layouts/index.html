@@ -23,6 +23,10 @@
 
     <nav role="navigation" class="flex-container" id="splash">
 
+        {{ if .Site.Params.Header }}
+            <div style="font-size: 40pt;color: #fff;filter: brightness(80%);margin-bottom: 2em">{{ .Site.Params.Header }}</div>
+        {{ end }}
+
         {{ if .Site.Params.mainMenu }}
         {{ range .Site.Params.mainMenu }}
             <a href="{{.link}}" class="big-link">

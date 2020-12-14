@@ -15,8 +15,9 @@ The idea of this Open Science Escape Room came from Katrine Sundsbø at the Univ
 <br>
 
 <div align="center">
+    <span style="text-align: center; font-size: 12px; font-style: italic;">Created by</span>
     <a href="https://www.med.uio.no/norment/english/" target="_blank">
-        <img src="/images/norment_christmas.png" style="height:90px;width:257px"/>
+        <img src="/images/norment.png" style="width:250px;margin-top: 0;"/>
     </a>
 </div>
 
@@ -24,4 +25,4 @@ The idea of this Open Science Escape Room came from Katrine Sundsbø at the Univ
 
 <div style="text-align: center; font-size: 12px; font-style: italic">Web design by <a href="https://github.com/victoriadrake" target="_blank">Victoria Drake</a> and <a href="https://github.com/danielroelfs" target="_blank">Daniel Roelfs</a></div>
 
-<div style="text-align: center; font-size: 12px; font-style: italic">Last updated: 28/11/2020</div>
+<div style="text-align: center; font-size: 12px; font-style: italic">Last updated: 14/12/2020</div>
