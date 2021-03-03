@@ -31,7 +31,7 @@ publishDir              = "docs"
 
 [[params.videoBackground.sources]]
     # put a link to a video in the item below, you could .e.g save a video in the "images" folder and link to it like this: "source = "images/background_video.mp4""
-    source  = "https://vod-progressive.akamaized.net/exp=1614115013~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4026%2F18%2F470132153%2F2091294229.mp4~hmac=3041780347db04f11034cdd448c8d0e06afd0d0a82a158d5e4fcf3af120ceac9/vimeo-prod-skyfire-std-us/01/4026/18/470132153/2091294229.mp4"
+    source  = "images/background_video.mp4"
     type    = "video/mp4"
     poster  = "images/background.jpg"
 [params.videoBackground]
