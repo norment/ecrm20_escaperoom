@@ -1,185 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/tasks/common/enter_code/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tasks/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tasks/green/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tasks/gold/what_is_gold/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tasks/green/what_is_green/</loc>
     <lastmod>1970-01-01T01:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tasks/common/decipher/</loc>
     <lastmod>1970-01-01T00:59:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/</loc>
     <lastmod>1970-01-01T00:59:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tasks/gold/look_around_the_room/</loc>
     <lastmod>1970-01-01T00:59:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tasks/green/look_around_the_room/</loc>
     <lastmod>1970-01-01T00:59:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/try_again/</loc>
     <lastmod>1970-01-01T00:59:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tasks/gold/</loc>
     <lastmod>1970-01-01T00:59:59+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tasks/common/</loc>
     <lastmod>1970-01-01T00:59:58+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tasks/common/preprints_impact/</loc>
     <lastmod>1970-01-01T00:59:58+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tasks/common/elsevier/</loc>
     <lastmod>1970-01-01T00:59:57+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tasks/common/look_around_the_room/</loc>
     <lastmod>1970-01-01T00:59:55+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/murica/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/chocolate/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/coffee/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/epilogue/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/google/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/instructions/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/introduction/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/king/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/program/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/money/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/mouse/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/norway/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/dutch/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/papers/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/predator/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/closed/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/this_is_the_final_clue/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/time/</loc>
-  </url>
-  
-  <url>
-    <loc>/items/5560/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/items/5970/</loc>
+  </url><url>
     <loc>/items/rick_astley/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/sherlock/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/items/thread/</loc>
   </url>
-  
 </urlset>

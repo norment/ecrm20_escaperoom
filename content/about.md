@@ -21,8 +21,8 @@ The idea of this Open Science Escape Room came from [Katrine Sundsbø](https://t
     </a>
 </div>
 
-<span style="font-size: 12px;">_For questions about the code, repository, GitHub hosting, and this website in general, ask [Daniel](mailto:daniel.roelfs@medisin.uio.no)_</span>
+<span style="font-size: 12px;">_If you find a bug or error in this site, or if you have a questions about the code, repository, GitHub hosting, and this website in general, ask [Daniel](mailto:daniel.roelfs@medisin.uio.no)_</span>
 
 <div style="text-align: center; font-size: 12px; font-style: italic">Web design by <a href="https://github.com/victoriadrake" target="_blank">Victoria Drake</a> and <a href="https://github.com/danielroelfs" target="_blank">Daniel Roelfs</a></div>
 
-<div style="text-align: center; font-size: 12px; font-style: italic">Last updated: 14/12/2020</div>
+<div style="text-align: center; font-size: 12px; font-style: italic">Last updated: 2/2/2022</div>
